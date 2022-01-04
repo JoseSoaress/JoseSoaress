@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseSoaress
+- 👋 Hi, I’m @JoseSoares and I am from Portugal.
 - 👀 I’m interested in robotics, machine learning, computer vision, programming.
 - 📫 How to reach me jose.pedroa.soares@gmail.com
 
